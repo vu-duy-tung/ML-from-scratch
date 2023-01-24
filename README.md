@@ -6,4 +6,4 @@
 - [Linear Regression]()
 - [K-Nearest Neighbours (KNN)]()
 - [Logistic Regression]()
-- Etc
+- Etc.
